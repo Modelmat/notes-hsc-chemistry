@@ -128,7 +128,6 @@ When heating a thermosetting polymer, bonds within the carbon chain will often b
     Elastic is an engineering term used to describe materials which can revert back to their original shape.
     Most materials are elastic - even steel - up to their elastic limit.
     Past the elastic limit, they plastically (i.e. permanently) deform to a different shape and eventually break at their tensile strength.
-    What perhaps a better description for "elastic" would be "stiff", and this is expressed through the modulus of elasticity (Young's Modulus) - stress over %elongation.
 
 
 .. note::
